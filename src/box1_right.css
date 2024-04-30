@@ -1,0 +1,7 @@
+.box1_right img {
+    width: 170PX;
+}
+.box1_right {
+    position: absolute;
+    right: 0;
+}

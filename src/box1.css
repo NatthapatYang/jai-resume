@@ -1,0 +1,10 @@
+.box1 {
+    display: flex;
+    position: relative;
+    line-height: 10px;
+}
+
+.box1_left img {
+    width: 15PX;
+
+}

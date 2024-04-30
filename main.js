@@ -1,5 +1,16 @@
-import './src/style.css'
-import './src/test.css'
 import './src/test.js'
+import './src/style.css'
+import './src/box1.css'
+import './src/box1_right.css'
+import './src/box1_left.css'
+import './src/box1_name.css'
+import './src/box2.css'
+import './src/box3.css'
+import './src/box3_right.css'
+import './src/box3_left.css'
+import './src/box3_list.css'
+import './src/box4.css'
+import './src/box4_left.css'
+import './src/box4_right.css'
 
 console.log("Hi")
