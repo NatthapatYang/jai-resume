@@ -4,4 +4,5 @@
 .box4 {
     font-family: "Nunito", sans-serif;
     display: flex;
+    line-height: 10px;
 }
