@@ -1,1 +1,0 @@
-import './src/box1_left.css'
